@@ -1,0 +1,6 @@
+.venv/
+state.db
+.DS_Store
+__pycache__/
+*.pyc
+.claude/
